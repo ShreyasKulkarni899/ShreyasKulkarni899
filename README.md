@@ -1,5 +1,5 @@
 
-# 🙋Hi there, I'm Shreyas Kulkarni
+# 🙋🏻Hi there, I'm Shreyas Kulkarni
 ## I'm a Pre-Finalist CSE Student, Developer💻 and Photographer📷
 * 🔭I’m currently working on a improving my DS & Algo
 * 🌱 I’m currently learning everything 
